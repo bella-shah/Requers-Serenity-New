@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="in.reqres.userinfo.UserCURDTestWithSteps" skipped="0" tests="1" time="2.29" timestamp="2022-06-07T09:14:51.474+01:00[Europe/London]"><testcase classname="in.reqres.userinfo.UserCURDTestWithSteps" name="Delete the user and verify if the user is deleted! for ID=9"/></testsuite>
